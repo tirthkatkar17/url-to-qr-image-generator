@@ -23,8 +23,9 @@ Getting Started :
 
 2.  **Install Dependencies:**
     Install the necessary Node.js packages (`inquirer` and `qr-image`).
+    Before running the code, you must install the required Node.js packages (`inquirer` and `qr-image`) specified in the `package.json` file. This creates the     necessary **`node_modules`** folder.
     ```bash
-    npm install
+    npm install inquirer qr-image
     ```
 
 ### 💻 How to Run
